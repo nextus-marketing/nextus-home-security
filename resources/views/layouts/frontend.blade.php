@@ -27,6 +27,8 @@
     <link rel="stylesheet" href="/frontend/assets/css/my.css">
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <link rel="canonical" href="{{ url()->current() }}" />
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" /> -->
+
     
 <!-- <script type="application/ld+json">
 {
@@ -62,9 +64,9 @@
     </div> --}}
     <!-- pre loader area end -->
     <!-- Call Button -->
-    <a href="tel:+18558321250" class="call-floating-btn" title="Call Now">
+    <!-- <a href="tel:+18558321250" class="call-floating-btn" title="Call Now">
         <i class="fas fa-phone-alt"></i>
-    </a>
+    </a> -->
     <!-- back to top start -->
     <div class="progress-wrap">
         <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
@@ -93,7 +95,7 @@
             <div class="row align-items-center">
                <div class="col-xl-3 col-lg-6 col-md-5 col-7">
                   <div class="logo">
-                     <a href="/"><img src="/frontend/my_img/new-logo/logo.png" alt="logo" ></a>
+                     <a href="/"><img src="/frontend/my_img/logo.png" alt="logo" style="width:220px; height:70px;"></a>
                   </div>
                </div>
                <div class="col-xl-6 d-none d-xl-block">
@@ -111,8 +113,7 @@
                   <div class="search-main p-relative">
                      <div class="tp-header-right">
                         <a href="tel:+18558321250" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
-                        <a href="#" class="tp-menu-toggle tp-header-icon ml-20 d-xl-none"><i
-                              class="far fa-bars"></i></a>
+                        <a href="#" class="tp-menu-toggle tp-header-icon ml-20 d-xl-none"><i class="fa-solid fa-bars"></i></a>
                      </div>
                      <div class="search-form">
                         <form method="GET">
@@ -130,7 +131,7 @@
     <div class="tp-sidebar-menu ">
         <button class="sidebar-close"><i class="fal fa-times"></i></button>
         <div class="side-logo mb-20">
-              <a href="/"><img src="/frontend/my_img/new-logo/logo.png" alt="logo" ></a>
+              <a href="/"><img src="/frontend/my_img/logo.png" alt="logo" style="width:175px; height:65px;"></a>
         </div>
         <div class="mobile-menu">
             <div class="sidebar-title">
@@ -140,12 +141,12 @@
                 <li>21 Glenside Annandale, NJ, 08801</li>
                 <li><a href="tel:+18558321250">+1-855-832-1250</a></li>
             </ul>
-            <div class="tp-sidebar-social">
+            <!-- <div class="tp-sidebar-social">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-dribbble"></i></a>
-            </div>
+            </div> -->
         </div>
     </div>
     <div class="body-overlay"></div>
@@ -161,7 +162,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="logo mb-3">
-                        <a href="/"><img src="/frontend/my_img/new-logo/footer-logo.png" alt="logo" style="max-width: 60% !important;"></a>
+                        <a href="/"><img src="/frontend/my_img/footer-logo.png" alt="logo" style="width:220px; height:65px;"></a>
                     </div>
                     <div class="footer-widget footer-col-1 mb-50">
                         <p>
@@ -170,7 +171,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <!-- <div class="col-lg-3 col-md-6">
                     <div class="footer-widget footer-col-2 mb-50">
                         <h3 class="footer-widget-title">Get In Touch</h3>
                         <div class="footer-contact">
@@ -185,7 +186,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-widget footer-col-3 mb-50">
@@ -240,7 +241,7 @@
 
                 <div class="col-xl-7 col-lg-7 text-lg-start col-12 text-center">
                     <div class="copyright-text">
-                        <p>Copyright © 2026 <a href="/"> Nextus Home Security</a> All Rights Reserved.</p>
+                        <p>Copyright © 2026 <a href="https://nextusglobalservices.com/"> Nextus Global Services</a> All Rights Reserved.</p>
                     </div>
                 </div>
 
@@ -257,6 +258,98 @@
     </div>
 </footer>
 
+<!-- Font Awesome -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+/>
+
+<!-- Mobile Sticky Call Box -->
+<div class="mobile-sticky-call">
+  <a href="tel:+18558321250" class="call-btn">
+    <span class="call-icon">
+      <i class="fa-solid fa-phone"></i>
+    </span>
+    <span class="call-text" sty>Call Now: +1-855-832-1250</span>
+  </a>
+</div>
+
+<style>
+/* Hide by default */
+.mobile-sticky-call {
+  display: none;
+}
+
+/* Mobile Only */
+@media (max-width: 768px) {
+  .mobile-sticky-call {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #409aa3;
+    z-index: 9999;
+    box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.2);
+    animation: slideUp 0.5s ease-in-out;
+  }
+
+  .call-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 16px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    transition: transform 0.2s ease, background 0.3s ease;
+  }
+
+  .call-btn:active {
+    transform: scale(0.96);
+  }
+
+  .call-icon {
+    width: 30px;
+    height: 30px;
+    background: #ffffff;
+    color: #409aa3;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    animation: pulse 1.8s infinite;
+  }
+}
+
+/* Animations */
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.6);
+  }
+  70% {
+    box-shadow: 0 0 0 12px rgba(255, 255, 255, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+</style>
+
+
 <div class="modal fade" id="securityModal" tabindex="-1" aria-labelledby="securityModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content custom-modal text-center">
@@ -268,7 +361,7 @@
                 style="position: absolute; top: 15px; right: 15px;">
             </button>
             <div class="mb-3">
-                <img src="/frontend/my_img/new-logo/logo.png" alt="Logo" class="modal-logo">
+                <img src="/frontend/my_img/logo.png" alt="logo" style="width:220px; height:65px;">
             </div>
             <h4 class="fw-bold modal-title-text" id="securityModalLabel">Talk To Security Experts</h4>
             <p class="modal-subtext">Get 3 Months Free Monitoring Services</p>
@@ -276,7 +369,7 @@
                 <a class="tp-btn"
                    href="tel:+18558321250"
                    style="display: inline-block; padding: 1px 39px; font-size: 19px; width: auto; min-width: 80px; border-radius: 50px;">
-                    <i class="fas fa-phone-alt"></i> Call Now
+                    <i class="fa-solid fa-phone"></i> Call Now
                 </a>
             </div>
         </div>

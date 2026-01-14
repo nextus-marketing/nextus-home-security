@@ -57,7 +57,7 @@
     --tp-grey-2: #F5F6F8;
     --tp-text-body: #777777;
     --tp-text-p: #777777;
-    --tp-theme-1: #45a9b3;
+    --tp-theme-1: #368488;
     --tp-border-1: #000;
     /**
   @font weight declaration
@@ -91,7 +91,7 @@
 }
 
 .tp-section-box-2 .tp-section-subtitle {
-    color: #45a9b3;
+    color: #368488;
     font-weight: 700;
     text-transform: uppercase;
     background: 0;
@@ -102,12 +102,12 @@
     height: 15px;
     width: 15px;
     border-radius: 50%;
-    border: 1px solid #45a9b3;
+    border: 1px solid #368488;
     font-size: 10px;
     text-align: center;
     line-height: 13px;
     margin-right: 15px;
-    color: #45a9b3;
+    color: #368488;
     position: absolute;
     left: 0;
     top: 5px;
@@ -154,7 +154,7 @@
 .tp-main-menu ul li a {
     font-weight: var(--tp-fw-bold);
     color: var(--tp-common-black);
-    padding: 20px 0;
+    padding: 25px 0;
     display: inline-block;
 }
 
@@ -219,4 +219,15 @@
     z-index: 1;
     overflow: hidden;
     border-radius: 50px;
+}
+
+.notification-text p b {
+    color: #35b6bc;
+}
+
+@media (max-width: 767px) {
+    .progress-wrap {
+        right: 15px;
+        bottom: 65px;
+    }
 }

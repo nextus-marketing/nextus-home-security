@@ -18,7 +18,7 @@
                                     and safety. Stay connected, stay safe.</p>
                                 <div class="tp-slide-btn-box mt-45">
                                     <div class="slider-btn mr-30">
-                                        <a href="tel:+18558321250" class="tp-btn-white"><i class="fas fa-phone-alt"></i>
+                                        <a href="tel:+18558321250" class="tp-btn-white"><i class="fa-solid fa-phone"></i>
                                             +1-855-832-1250</a>
                                     </div>
                                 </div>
@@ -41,7 +41,7 @@
                                     and safety. Stay connected, stay safe.</p>
                                 <div class="tp-slide-btn-box mt-25">
                                     <div class="slider-btn mr-30">
-                                        <a href="tel:+18558321250" class="tp-btn-white"><i class="fas fa-phone-alt"></i>
+                                        <a href="tel:+18558321250" class="tp-btn-white"><i class="fa-solid fa-phone"></i>
                                             +1-855-832-1250</a>
                                     </div>
                                 </div>
@@ -80,7 +80,7 @@
                         </div>
                         <div class="tp-about-fea-signature d-flex align-items-center mt-25">
                             <div class="sig-btn mr-30 mb-10">
-                                <a class="tp-btn-border" href="tel:+18558321250"> <i class="fas fa-phone-alt"></i> Call Our
+                                <a class="tp-btn-border" href="tel:+18558321250"> <i class="fa-solid fa-phone"></i> Call Our
                                     Security Expert
                                     <i class="fal fa-long-arrow-right"></i></a>
                             </div>
@@ -197,7 +197,7 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                             </p>
                         </div>
                         <div class="sig-btn mr-30 mb-10">
-                            <a class="tp-btn-border" href="tel:+18558321250"> <i class="fas fa-phone-alt"></i> Talk To
+                            <a class="tp-btn-border" href="tel:+18558321250"> <i class="fa-solid fa-phone"></i> Talk To
                                 Security Expert
                                 <i class="fal fa-long-arrow-right"></i></a>
                         </div>
@@ -242,7 +242,7 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                             </div>
                         </div>
                         <div class="sig-btn mr-30 mb-10">
-                            <a class="tp-btn-border" href="tel:+18558321250"> <i class="fas fa-phone-alt"></i> Call Now
+                            <a class="tp-btn-border" href="tel:+18558321250"> <i class="fa-solid fa-phone"></i> Call Now
                                 To Speak With Expert
                                 </a>
                         </div>
@@ -366,7 +366,7 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                     <!-- Button 1: Call Now -->
                     <div class="tpsupport-ovr-button me-3">
                         <a class="tp-btn" href="tel:+18558321250">
-                            <i class="fas fa-phone-alt"></i> 
+                            <i class="fa-solid fa-phone"></i> 
                             Call Now To Speak With Expert 
                             <i class="fal fa-angle-right"></i>
                         </a>

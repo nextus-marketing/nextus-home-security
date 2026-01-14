@@ -171,3 +171,52 @@
         letter-spacing: -1.5px;
     }
 }
+
+.tp-btn-2 {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--tp-common-white);
+    background: var(--tp-theme-1);
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    padding: 0 38px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border-radius: 50px;
+}
+
+.tp-btn-border {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--tp-common-black);
+    background: none;
+    height: 58px;
+    line-height: 58px;
+    text-align: center;
+    padding: 0 38px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border: 1px solid #bcb5b5;
+    border-radius: 50px;
+}
+
+.tp-btn {
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--tp-common-white);
+    background: var(--tp-theme-1);
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    padding: 0 14px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border-radius: 50px;
+}

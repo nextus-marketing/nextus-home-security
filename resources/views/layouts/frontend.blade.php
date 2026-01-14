@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title> @yield(section: 'title') </title>
-    <meta name="description" content="Keep your home safe with smart alarms, cameras, and monitoring systems. Compare the best security options and choose the right protection for your family.">
+    <meta name="description" content="Nextus Home Security provides smart, reliable home security solutions to protect your family and property with advanced technology and 24/7 monitoring.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Place favicon.ico in the root directory -->
@@ -275,7 +275,7 @@
             <div style="text-align: center; margin-top: 5px;">
                 <a class="tp-btn"
                    href="tel:+18558321250"
-                   style="display: inline-block; padding: 1px 39px; font-size: 19px; width: auto; min-width: 80px; border-radius: 15px;">
+                   style="display: inline-block; padding: 1px 39px; font-size: 19px; width: auto; min-width: 80px; border-radius: 50px;">
                     <i class="fas fa-phone-alt"></i> Call Now
                 </a>
             </div>

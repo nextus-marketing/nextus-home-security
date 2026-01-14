@@ -3,7 +3,7 @@
     Terms and Conditions | Nextus Home Security
 @endsection
 @section('content')
-    <section class="breadcrumb__area include-bg pt-150 pb-150" data-background="/frontend/my_img/bredcrum/1.webp">
+    <section class="breadcrumb__area include-bg pt-150 pb-150" data-background="/frontend/my_img/bredcrum.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-xxl-12">

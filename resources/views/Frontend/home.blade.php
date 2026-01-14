@@ -5,7 +5,7 @@
 @section('content')
     <div class="tp-slider-area">
         <div class="slider-active slider-arrow-style">
-            <div class="tp-slider-item tp-slider-height tp-slider-overlay-2 d-flex align-items-center"
+            <!-- <div class="tp-slider-item tp-slider-height tp-slider-overlay-2 d-flex align-items-center"
                 data-background="/frontend/my_img/slider/banner-4.jpg">
                 <img src="/frontend/my_img/slider/banner-4.jpg" alt="Banner image 2" style="display: none;"/>
                 <div class="container">
@@ -26,9 +26,33 @@
                         </div>
                     </div>
                 </div>
+            </div> -->
+
+            <div class="tp-slider-item tp-slider-height tp-slider-overlay-2 d-flex align-items-center"
+                data-background="/frontend/my_img/slider/banner-5.jpg">
+                <img src="/frontend/my_img/slider/banner-5.jpg" alt="Banner image 2" style="display: none;"/>
+                <div class="container">
+                    <div class="row justify-content">
+                        <div class="col-xxl-6 col-xl-6 col-lg-8">
+                            <div class="tp-slider-content tp-slider-content-two">
+                                <span class="tp-slider-sub-title">Smart Security, Smarter Living</span>
+                                <h1 class="tp-slider-title">Innovative Technology at Your Fingertips</h1>
+                                <p>Control your home security remotely with our smart accessories designed for convenience
+                                    and safety. Stay connected, stay safe.</p>
+                                <div class="tp-slide-btn-box mt-45">
+                                    <div class="slider-btn mr-30">
+                                        <a href="tel:+18558321250" class="tp-btn-white"><i class="fas fa-phone-alt"></i>
+                                            +1-855-832-1250</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
+    
     <div class="tp-about-area pt-80 pb-30" id="about">
         <div class="container">
             <div class="row">

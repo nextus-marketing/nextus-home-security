@@ -5,9 +5,9 @@
 @section('content')
     <div class="tp-slider-area">
         <div class="slider-active slider-arrow-style">
-            <!-- <div class="tp-slider-item tp-slider-height tp-slider-overlay-2 d-flex align-items-center"
-                data-background="/frontend/my_img/slider/banner-4.jpg">
-                <img src="/frontend/my_img/slider/banner-4.jpg" alt="Banner image 2" style="display: none;"/>
+            <div class="tp-slider-item tp-slider-height tp-slider-overlay-2 d-flex align-items-center"
+                data-background="/frontend/my_img/slider/banner-1.webp">
+                <img src="/frontend/my_img/slider/banner-1.webp" alt="Banner image 2" style="display: none;"/>
                 <div class="container">
                     <div class="row justify-content-xl-end">
                         <div class="col-xxl-6 col-xl-6 col-lg-8">
@@ -26,9 +26,9 @@
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
 
-            <div class="tp-slider-item tp-slider-height tp-slider-overlay-2 d-flex align-items-center"
+            <!-- <div class="tp-slider-item tp-slider-height tp-slider-overlay-2 d-flex align-items-center"
                 data-background="/frontend/my_img/slider/banner-5.jpg">
                 <img src="/frontend/my_img/slider/banner-5.jpg" alt="Banner image 2" style="display: none;"/>
                 <div class="container">
@@ -49,7 +49,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     

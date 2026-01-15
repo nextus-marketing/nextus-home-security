@@ -13,7 +13,7 @@
                             <span class="dvdr"><i class="flaticon-arrow-right"></i></span>
                             <span>Terms and Conditions</span>
                         </div>
-                        <h3 class="breadcrumb__title">Terms and Conditions</h3>
+                        <h3 class="breadcrumb__title">Terms & Conditions</h3>
                     </div>
                 </div>
             </div>

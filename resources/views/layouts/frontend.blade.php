@@ -131,7 +131,7 @@
     <div class="tp-sidebar-menu ">
         <button class="sidebar-close"><i class="fal fa-times"></i></button>
         <div class="side-logo mb-20">
-              <a href="/"><img src="/frontend/my_img/logo.png" alt="logo" style="width:175px; height:65px;"></a>
+              <a href="/"><img src="/frontend/my_img/logo.png" alt="logo" style="width:205px; height:65px;"></a>
         </div>
         <div class="mobile-menu">
             <div class="sidebar-title">

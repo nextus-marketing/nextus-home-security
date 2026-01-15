@@ -159,9 +159,9 @@
     <div class="footer-widget-area footer-bg pt-50 pb-10">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-7 col-md-6">
                     <div class="logo mb-3">
-                        <a href="/"><img src="/frontend/my_img/footer-logo.png" alt="logo" style="width:220px; height:65px;"></a>
+                        <a href="/"><img src="/frontend/my_img/footer-logo.png" alt="logo" style="width:190px; height:65px;"></a>
                     </div>
                     <div class="footer-widget footer-col-1 mb-50">
                         <p>
@@ -170,24 +170,8 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="footer-widget footer-col-2 mb-50">
-                        <h3 class="footer-widget-title">Get In Touch</h3>
-                        <div class="footer-contact">
-                            <div class="footer-contact-item">
-                                <!-- <p>
-                                    21 Glenside <br>
-                                    Annandale, NJ, 08801
-                                </p> -->
-                            </div>
-                            <div class="footer-contact-item">
-                                <p><a href="tel:+18558743165">+1-855-874-3165</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6">
+                
+                <div class="col-lg-2 col-md-6">
                     <div class="footer-widget footer-col-3 mb-50">
                         <h3 class="footer-widget-title">Main Pages</h3>
 
@@ -212,23 +196,24 @@
                     </div>
                 </div>
 
-                {{-- 
+
                 <div class="col-lg-3 col-md-6">
-                    <div class="footer-widget footer-col-4 mb-50">
-                        <h3 class="footer-widget-title">Get Newsletter</h3>
-                        <div class="logo">
-                            <a href="index.html"><img src="/frontend/my_img/logo/logo-1.png" alt="logo" style="max-width: 65% !important;"></a>
-                        </div>
-                        <div class="footer-social mt-20">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-behance"></i></a>
-                            <a href="#"><i class="fab fa-youtube"></i></a>
-                            <a href="#"><i class="fab fa-linkedin"></i></a>
+                    <div class="footer-widget footer-col-2 mb-50">
+                        <h3 class="footer-widget-title">Get In Touch</h3>
+                        <div class="footer-contact">
+                            <div class="footer-contact-item">
+                                <!-- <p>
+                                    21 Glenside <br>
+                                    Annandale, NJ, 08801
+                                </p> -->
+                            </div>
+                            <div class="footer-contact-item">
+                                <p><a href="tel:+18558743165">+1-855-874-3165</a></p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                --}}
+
 
             </div>
         </div>

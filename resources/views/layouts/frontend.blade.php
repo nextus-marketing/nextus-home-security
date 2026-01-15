@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="/frontend/my_img/new-logo/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/frontend/my_img/favicon.png">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="/frontend/assets/css/bootstrap.css">

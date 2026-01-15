@@ -64,9 +64,9 @@
     </div> --}}
     <!-- pre loader area end -->
     <!-- Call Button -->
-    <!-- <a href="tel:+18558743165" class="call-floating-btn" title="Call Now">
-        <i class="fas fa-phone-alt"></i>
-    </a> -->
+    <a href="tel:+18558743165" class="call-floating-btn" title="Call Now">
+        <i class="fa-solid fa-phone"></i>
+    </a>
     <!-- back to top start -->
     <div class="progress-wrap">
         <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">

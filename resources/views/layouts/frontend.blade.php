@@ -64,7 +64,7 @@
     </div> --}}
     <!-- pre loader area end -->
     <!-- Call Button -->
-    <!-- <a href="tel:+18558321250" class="call-floating-btn" title="Call Now">
+    <!-- <a href="tel:+18558743165" class="call-floating-btn" title="Call Now">
         <i class="fas fa-phone-alt"></i>
     </a> -->
     <!-- back to top start -->
@@ -112,7 +112,7 @@
                <div class="col-xl-3 col-lg-6 col-md-7 col-5">
                   <div class="search-main p-relative">
                      <div class="tp-header-right">
-                        <a href="tel:+18558321250" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
+                        <a href="tel:+18558743165" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
                         <a href="#" class="tp-menu-toggle tp-header-icon ml-20 d-xl-none"><i class="fa-solid fa-bars"></i></a>
                      </div>
                      <div class="search-form">
@@ -138,8 +138,7 @@
                 <h3>CONTACT US</h3>
             </div>
             <ul class="sidebar-list">
-                <li>21 Glenside Annandale, NJ, 08801</li>
-                <li><a href="tel:+18558321250">+1-855-832-1250</a></li>
+                <li><a href="tel:+18558743165">+1-855-874-3165</a></li>
             </ul>
             <!-- <div class="tp-sidebar-social">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -171,22 +170,22 @@
                         </p>
                     </div>
                 </div>
-                <!-- <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <div class="footer-widget footer-col-2 mb-50">
                         <h3 class="footer-widget-title">Get In Touch</h3>
                         <div class="footer-contact">
                             <div class="footer-contact-item">
-                                <p>
+                                <!-- <p>
                                     21 Glenside <br>
                                     Annandale, NJ, 08801
-                                </p>
+                                </p> -->
                             </div>
                             <div class="footer-contact-item">
-                                <p><a href="tel:+18558321250">+1-855-832-1250</a></p>
+                                <p><a href="tel:+18558743165">+1-855-874-3165</a></p>
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
 
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-widget footer-col-3 mb-50">
@@ -266,11 +265,11 @@
 
 <!-- Mobile Sticky Call Box -->
 <div class="mobile-sticky-call">
-  <a href="tel:+18558321250" class="call-btn">
+  <a href="tel:+18558743165" class="call-btn">
     <span class="call-icon">
       <i class="fa-solid fa-phone"></i>
     </span>
-    <span class="call-text" sty>Call Now: +1-855-832-1250</span>
+    <span class="call-text" sty>Call Now: +1-855-874-3165</span>
   </a>
 </div>
 
@@ -367,7 +366,7 @@
             <p class="modal-subtext">Get 3 Months Free Monitoring Services</p>
             <div style="text-align: center; margin-top: 5px;">
                 <a class="tp-btn"
-                   href="tel:+18558321250"
+                   href="tel:+18558743165"
                    style="display: inline-block; padding: 1px 39px; font-size: 19px; width: auto; min-width: 80px; border-radius: 50px;">
                     <i class="fa-solid fa-phone"></i> Call Now
                 </a>

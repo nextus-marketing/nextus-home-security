@@ -64,7 +64,7 @@
                                 <p class="mt-30"><strong>4. Contact Us</strong></p>
                                 <p>If you have any questions about this Privacy Policy or how we handle your personal
                                     information, please contact us:</p>
-                                <!-- <p><strong>Phone:</strong> <a href="tel:+18558321250">+1 (855) 832-1250</a></p> -->
+                                <p><strong>Phone:</strong> <a href="tel:+18558743165">+1(855) 874-3165</a></p>
                                 <!-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> -->
 
                                 <p class="mt-30">By using our services, you consent to the terms of this Privacy Policy.

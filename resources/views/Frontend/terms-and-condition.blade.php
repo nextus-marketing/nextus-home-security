@@ -122,8 +122,8 @@
 
                                 <p class="mt-30"><strong>13. Contact Us</strong></p>
                                 <p>If you have any questions about these Terms, please contact us:</p>
-                                <!-- <p><strong>Phone:</strong> <a href="tel:+18558321250">+1 (855) 832-1250</a></p>
-                                <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> -->
+                                <p><strong>Phone:</strong> <a href="tel:+18558743165">+1(855) 874-3165</a></p>
+                                <!-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p>  -->
                             </div>
                         </div>
                     </div>

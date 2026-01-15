@@ -271,8 +271,8 @@
 	$('.tp-testimonial-active').slick({
 		slidesToShow: 3,
 		arrows: true,
-		prevArrow: '<button type="button" class="slick-prev"><i class="far fa-long-arrow-alt-left"></i></button>',
-		nextArrow: '<button type="button" class="slick-next"><i class="far fa-long-arrow-alt-right"></i></button>',
+		prevArrow: '<button type="button" class="slick-prev"><i class="fa-solid fa-arrow-left"></i></button>',
+		nextArrow: '<button type="button" class="slick-next"><i class="fa-solid fa-arrow-right"></i></button>',
 		appendArrows: $(".tp-test-arrow"),
 		responsive: [
 			{

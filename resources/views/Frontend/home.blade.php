@@ -452,7 +452,6 @@
             </div>
         </div>
     </div>
-
 <div class="tp-footer-counter-area theme-bg pt-25">
     <div class="container">
         <div class="row align-items-center justify-content-center text-center">
@@ -481,7 +480,7 @@
                 </div>
             </div>
         </div>
-    </div>
+        </div>
     </div>
 </div>
 

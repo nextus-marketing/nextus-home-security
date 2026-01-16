@@ -74,7 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="row">
                             <div class="col-12">
                                 <div class="notification-text text-center">
-                                    <p class="m-0"><b>Limited Time Offer:</b> Talk To Our Security Experts &amp; Get
+                                    <p class="m-0 head"><b>Limited Time Offer:</b> Talk To Our Security Experts &amp; Get
                                         3 Months Free Monitoring Services</p>
                                 </div>
                             </div>

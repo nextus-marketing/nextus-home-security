@@ -232,3 +232,13 @@
         bottom: 65px;
     }
 }
+
+.head {
+    font-size: 16px;
+}
+
+@media (max-width: 767px) {
+    .head {
+        font-size: 9px;
+    }
+}

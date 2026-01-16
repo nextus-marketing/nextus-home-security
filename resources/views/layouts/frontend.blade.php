@@ -69,7 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- header start -->
 
     <header>
-        <div class="header-notification-area black-bg pt-15 pb-15">
+        <div class="header-notification-area black-bg pt-10 pb-10">
                     <div class="container">
                         <div class="row">
                             <div class="col-12">

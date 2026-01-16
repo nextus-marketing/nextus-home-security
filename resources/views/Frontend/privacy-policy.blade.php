@@ -33,9 +33,7 @@
                                 with our products, services, and website. By using our services, you agree to the collection
                                 and use of information in accordance with this policy.
                             </p>
-
                             <hr class="mt-30 mb-30">
-
                             <div class="tp-about-fea-item">
                                 <p><strong>1. Information We Collect</strong></p>
                                 <p>When you sign up for services, contact us, or fill out forms on our website, we may
@@ -46,7 +44,6 @@
                                 <p>If you use our home security products or services, we may collect data related to your
                                     security system’s performance, including sensor status, alarm events, and video footage
                                     (if applicable).</p>
-
                                 <p class="mt-30"><strong>2. Data Sharing</strong></p>
                                 <p>We do not sell or rent your personal information to third parties. However, we may share
                                     your information in the following situations:</p>
@@ -54,19 +51,16 @@
                                     services, such as payment processors or installation partners.</p>
                                 <p>We may also disclose your information if required by law or to protect our legal rights,
                                     for example in response to a subpoena, court order, or government request.</p>
-
                                 <p class="mt-30"><strong>3. Data Security</strong></p>
                                 <p>We take the security of your personal information seriously. We implement
                                     industry-standard measures like encryption, firewalls, and secure access controls to
                                     protect your data. However, no method of transmission over the internet or electronic
                                     storage is 100% secure.</p>
-
                                 <p class="mt-30"><strong>4. Contact Us</strong></p>
                                 <p>If you have any questions about this Privacy Policy or how we handle your personal
                                     information, please contact us:</p>
                                 <p><strong>Phone:</strong> <a href="tel:+18558743165">+1(855) 874-3165</a></p>
                                 <!-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> -->
-
                                 <p class="mt-30">By using our services, you consent to the terms of this Privacy Policy.
                                 </p>
                             </div>

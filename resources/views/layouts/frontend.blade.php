@@ -1,22 +1,20 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MNSTVXNS');</script>
-<!-- End Google Tag Manager -->
     <meta charset="utf-8">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MNSTVXNS');</script>
+    <!-- End Google Tag Manager -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title> @yield(section: 'title') </title>
     <meta name="description" content="Nextus Home Security provides smart, reliable home security solutions to protect your family and property with advanced technology and 24/7 monitoring.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <!-- Place favicon.ico in the root directory -->
     <link rel="shortcut icon" type="image/x-icon" href="/frontend/my_img/favicon.png">
-
     <!-- CSS here -->
     <link rel="stylesheet" href="/frontend/assets/css/bootstrap.css">
     <link rel="stylesheet" href="/frontend/assets/css/meanmenu.css">
@@ -34,10 +32,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="stylesheet" href="/frontend/assets/css/my.css">
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <link rel="canonical" href="{{ url()->current() }}" />
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" /> -->
-
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
 </head>
-
 <body>
 
 <!-- Google Tag Manager (noscript) -->
@@ -45,15 +42,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-    <!-- pre loader area start -->
-    {{-- <div id="loading">
-        <div id="loading-center">
-            <div id="loading-center-absolute">
-                <!-- loading content here -->
-            </div>
-        </div>
-    </div> --}}
-    <!-- pre loader area end -->
     <!-- Call Button -->
     <a href="tel:+18558743165" class="call-floating-btn" title="Call Now">
         <i class="fa-solid fa-phone"></i>
@@ -65,58 +53,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </svg>
     </div>
     <!-- back to top end -->
-
     <!-- header start -->
-
     <header>
         <div class="header-notification-area black-bg pt-10 pb-10">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="notification-text text-center">
-                                    <p class="m-0 head"><b>Limited Time Offer:</b> Talk To Our Security Experts &amp; Get
-                                        3 Months Free Monitoring Services</p>
-                                </div>
-                            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="notification-text text-center">
+                            <p class="m-0 head"><b>Limited Time Offer:</b> Talk To Our Security Experts &amp; Get
+                                3 Months Free Monitoring Services</p>
                         </div>
                     </div>
                 </div>
-      <div class="header-area-flat pl-25 pr-25">
-         <div class="container-fluid">
-            <div class="row align-items-center">
-               <div class="col-xl-3 col-lg-6 col-md-5 col-7">
-                  <div class="logo">
-                     <a href="/"><img src="/frontend/my_img/logo.png" alt="logo" style="width:220px; height:70px;"></a>
-                  </div>
-               </div>
-               <div class="col-xl-6 d-none d-xl-block">
-                  <div class="tp-main-menu text-center">
-                     <nav id="mobile-menu">
-                        <ul>
-                           <li><a href="/">Home</a></li>
-                           <li><a href="/#about">About Us</a></li>
-                           <li><a href="/#contact">Contact Us</a></li>
-                        </ul>
-                     </nav>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-6 col-md-7 col-5">
-                  <div class="search-main p-relative">
-                     <div class="tp-header-right">
-                        <a href="tel:+18558743165" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
-                        <a href="#" class="tp-menu-toggle tp-header-icon ml-20 d-xl-none"><i class="fa-solid fa-bars"></i></a>
-                     </div>
-                     <div class="search-form">
-                        <form method="GET">
-                           
-                           <button type="submit"><i class="fal fa-search"></i></button>
-                        </form>
-                     </div>
-                  </div>
-               </div>
             </div>
-         </div>
-      </div>
+        </div>
+        <div class="header-area-flat pl-25 pr-25">
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                <div class="col-xl-3 col-lg-6 col-md-5 col-7">
+                    <div class="logo">
+                        <a href="/"><img src="/frontend/my_img/logo.png" alt="logo" style="width:220px; height:70px;"></a>
+                    </div>
+                </div>
+                <div class="col-xl-6 d-none d-xl-block">
+                    <div class="tp-main-menu text-center">
+                        <nav id="mobile-menu">
+                            <ul>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/#about">About Us</a></li>
+                            <li><a href="/#contact">Contact Us</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-7 col-5">
+                    <div class="search-main p-relative">
+                        <div class="tp-header-right">
+                            <a href="tel:+18558743165" class="tp-btn-2 ml-20 d-none d-md-inline-block">Get In Touch</a>
+                            <a href="#" class="tp-menu-toggle tp-header-icon ml-20 d-xl-none"><i class="fa-solid fa-bars"></i></a>
+                        </div>
+                        <div class="search-form">
+                            <form method="GET">
+                            
+                            <button type="submit"><i class="fal fa-search"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
    </header>
 
     <div class="tp-sidebar-menu ">
@@ -131,12 +117,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <ul class="sidebar-list">
                 <li><a href="tel:+18558743165">+1-855-874-3165</a></li>
             </ul>
-            <!-- <div class="tp-sidebar-social">
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-dribbble"></i></a>
-            </div> -->
         </div>
     </div>
     <div class="body-overlay"></div>
@@ -165,14 +145,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-lg-2 col-md-6">
                     <div class="footer-widget footer-col-3 mb-50">
                         <h3 class="footer-widget-title">Main Pages</h3>
-
                         <ul style="
                             list-style:none;margin:0;padding:0;
                             display:block !important;
                             -webkit-column-count:1 !important; column-count:1 !important;
                             flex-direction:column !important; flex-wrap:nowrap !important;
-                            grid-template-columns:none !important;
-                        ">
+                            grid-template-columns:none !important;">
                             <li style="display:block !important; width:100% !important; margin:0 0 8px 0;">
                                 <a href="/">Home</a>
                             </li>
@@ -183,10 +161,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <a href="/#contact">Contact Us</a>
                             </li>
                         </ul>
-
                     </div>
                 </div>
-
 
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-widget footer-col-2 mb-50">
@@ -204,8 +180,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </div>
     </div>
@@ -213,13 +187,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="copyright-area theme-bg pt-20 pb-20">
         <div class="container">
             <div class="row">
-
                 <div class="col-xl-7 col-lg-7 text-lg-start col-12 text-center">
                     <div class="copyright-text">
                         <p>Copyright © 2026 <a href="https://nextusglobalservices.com/"> Nextus Global Services</a> All Rights Reserved.</p>
                     </div>
                 </div>
-
                 <div class="col-xl-5 col-lg-5 text-lg-end col-12 text-center">
                     <div class="footer-menu">
                         <ul>
@@ -233,11 +205,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </footer>
 
-<!-- Font Awesome -->
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-/>
 
 <!-- Mobile Sticky Call Box -->
 <div class="mobile-sticky-call">

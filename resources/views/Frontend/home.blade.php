@@ -27,29 +27,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- <div class="tp-slider-item tp-slider-height tp-slider-overlay-2 d-flex align-items-center"
-                data-background="/frontend/my_img/slider/banner-5.jpg">
-                <img src="/frontend/my_img/slider/banner-5.jpg" alt="Banner image 2" style="display: none;"/>
-                <div class="container">
-                    <div class="row justify-content">
-                        <div class="col-xxl-6 col-xl-6 col-lg-8">
-                            <div class="tp-slider-content tp-slider-content-two">
-                                <span class="tp-slider-sub-title">Smart Security, Smarter Living</span>
-                                <h1 class="tp-slider-title">Innovative Technology at Your Fingertips</h1>
-                                <p>Control your home security remotely with our smart accessories designed for convenience
-                                    and safety. Stay connected, stay safe.</p>
-                                <div class="tp-slide-btn-box mt-25">
-                                    <div class="slider-btn mr-30">
-                                        <a href="tel:+18558743165" class="tp-btn-white"><i class="fa-solid fa-phone"></i>
-                                            +1-855-832-1250</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
         </div>
     </div>
     
@@ -84,7 +61,6 @@
                                     Security Expert
                                     <i class="fal fa-long-arrow-right"></i></a>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -96,7 +72,6 @@
             </div>
         </div>
     </div>
-
     <div class="service-area grey-bg pt-80 pb-30">
         <div class="container">
             <div class="row text-center">
@@ -147,7 +122,7 @@
                             </div>
                             <h3 class="tpsvbox__title">Banking Sector</h3>
                             <p class="m-0">Protect your financial assets with advanced banking security solutions.
-Stay ahead of fraud with real-time monitoring and threat detection.
+                            Stay ahead of fraud with real-time monitoring and threat detection.
                             </p>
                         </div>
                     </div>
@@ -168,7 +143,7 @@ Stay ahead of fraud with real-time monitoring and threat detection.
                             <h3 class="tpsvbox__title">Education Institute
                             </h3>
                             <p class="m-0">Empower your institution with Nextus Home security systems.
-Monitor, manage, and safeguard your campus - anytime, anywhere.
+                            Monitor, manage, and safeguard your campus - anytime, anywhere.
                             </p></br>
                         </div>
                     </div>
@@ -193,7 +168,6 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                                 <br>
                                 We focus on providing tailored solutions that meet the unique needs of our customers,
                                 offering a perfect blend of advanced technology and user-friendly designs.
-
                             </p>
                         </div>
                         <div class="sig-btn mr-30 mb-10">
@@ -326,7 +300,7 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
       </div>
    </div>
 
-   <style>
+<style>
     .testi-text {
     font-size: 18px !important;
     color: var(--tp-common-black);
@@ -334,9 +308,7 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
     line-height: 1.4 !important;
     margin-bottom: 15px !important;
 }
-   </style>
-   
-   
+</style>
    
    <div class="tp-support-area pt-70 pb-30 p-relative" data-background="/frontend/my_img/support-bg.webp" id="contact">
     <img src="/frontend/my_img/support-bg.webp" alt="Get support" style="display: none;" />
@@ -344,17 +316,14 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
     <div class="container">
         <div class="row">
             <div class="col-xl-8 col-lg-10 m-auto">
-                
                 <div class="tpsupport__overlay-content text-center">
                     <div class="tp-section-box tp-section-box-2 white-text p-relative mb-45 text-center">
                         <span class="tp-section-subtitle d-inline-block pre mb-10">
                             Start Protecting Today
                         </span>
-
                         <h2 class="tp-section-title">
                             Your Safety Starts With Us
                         </h2>
-
                         <p class="m-0">
                             Contact us now for a free consultation and discover how we can provide 
                             peace of mind for you and your loved ones.
@@ -372,7 +341,6 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                         </a>
                     </div>
                 </div>
-
             </div>
         </div> 
     </div> 
@@ -485,12 +453,9 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
         </div>
     </div>
 
-
-
 <div class="tp-footer-counter-area theme-bg pt-25">
     <div class="container">
         <div class="row align-items-center justify-content-center text-center">
-
             <div class="col-xl-4 col-lg-6 col-md-6 col-12">
                 <div class="footer-counter-content mb-30">
                     <h2>820</h2>
@@ -499,7 +464,6 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                     </div>
                 </div>
             </div>
-
             <div class="col-xl-4 col-lg-6 col-md-6 col-12">
                 <div class="footer-counter-content mb-30">
                     <h2>120</h2>
@@ -508,7 +472,6 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                     </div>
                 </div>
             </div>
-
             <div class="col-xl-4 col-lg-6 col-md-6 col-12">
                 <div class="footer-counter-content mb-30">
                     <h2>20 <i class="fas fa-plus"></i></h2>
@@ -517,7 +480,6 @@ Monitor, manage, and safeguard your campus - anytime, anywhere.
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
     </div>

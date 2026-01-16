@@ -78,8 +78,6 @@
                                     <li>B) Interfere with the operation or security of the website;</li>
                                     <li>C) Attempt to gain unauthorized access to any part of the site or services;</li>
                                     <li>D) Upload or transmit viruses, malware, or harmful code.</li>
-                               
-                               
                                     
                                 <p class="mt-30"><strong>7. Disclaimers</strong></p>
                                 <p>Our website and services are provided “as is” and “as available.” We make no warranties,

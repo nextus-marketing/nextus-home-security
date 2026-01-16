@@ -277,7 +277,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     padding: 16px;
     color: #ffffff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     letter-spacing: 0.3px;
     transition: transform 0.2s ease, background 0.3s ease;
@@ -285,6 +285,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   .call-btn:active {
     transform: scale(0.96);
+  }
+
+  .call-text {
+    font-size: 16px;
   }
 
   .call-icon {
@@ -296,10 +300,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 18px;
+    font-size: 16px;
     animation: pulse 1.8s infinite;
   }
 }
+
+
 
 /* Animations */
 @keyframes pulse {

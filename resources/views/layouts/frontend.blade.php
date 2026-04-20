@@ -60,8 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                     <div class="col-12">
                         <div class="notification-text text-center">
-                            <p class="m-0 head"><b>Limited Time Offer:</b> Talk To Our Security Experts &amp; Get
-                                3 Months Free Monitoring Services</p>
+                            <p class="m-0 head">Talk to Security Experts & Protect What Matters Most</p>
                         </div>
                     </div>
                 </div>
@@ -311,8 +310,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="mb-3">
                 <img src="/frontend/my_img/logo.png" alt="logo" style="width:220px; height:65px;">
             </div>
-            <h4 class="fw-bold modal-title-text" id="securityModalLabel">Talk To Security Experts</h4>
-            <p class="modal-subtext">Get 3 Months Free Monitoring Services</p>
+            <h4 class="fw-bold modal-title-text" id="securityModalLabel">Talk to Security Experts & Protect What Matters Most</h4>
+            <!-- <p class="modal-subtext">Get 3 Months Free Monitoring Services</p> -->
             <div style="text-align: center; margin-top: 5px;">
                 <a class="tp-btn"
                    href="tel:+18558743165"

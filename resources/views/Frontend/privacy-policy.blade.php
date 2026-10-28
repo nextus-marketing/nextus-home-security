@@ -359,9 +359,8 @@
                             California residents may have rights to request access to, correction of, or deletion
                             of their personal information and to opt out of the sale or sharing of personal
                             information, subject to applicable exceptions.</p>
-                        <p>To submit a privacy request, email
-                            <a href="mailto:YOUR-EMAIL@YOURDOMAIN.COM?subject=Privacy%20Request">YOUR-EMAIL@YOURDOMAIN.COM</a>
-                            with the subject line “Privacy Request.”</p>
+                        <p>To submit a privacy request, please call us at
+                            <a href="tel:+18558743165">+1 (855) 874-3165</a>.</p>
                         <p>Where legally required, we will honor applicable Global Privacy Control (GPC) signals
                             and provide additional privacy choices.</p>
                     </section>

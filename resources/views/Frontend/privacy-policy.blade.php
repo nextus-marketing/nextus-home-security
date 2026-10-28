@@ -56,10 +56,73 @@
                                     industry-standard measures like encryption, firewalls, and secure access controls to
                                     protect your data. However, no method of transmission over the internet or electronic
                                     storage is 100% secure.</p>
-                                <p class="mt-30"><strong>4. Contact Us</strong></p>
+
+                                {{-- ===== CCPA SECTION (NEW) ===== --}}
+                                <p class="mt-30"><strong>4. California Privacy Rights (CCPA/CPRA)</strong></p>
+                                <p>If you are a California resident, the California Consumer Privacy Act of 2018, as amended
+                                    by the California Privacy Rights Act (together, the “CCPA”), gives you specific rights
+                                    regarding your personal information. This section supplements the rest of this Privacy
+                                    Policy.</p>
+
+                                <p class="mt-20"><strong>Categories of personal information we collect.</strong> In the past
+                                    12 months, we have collected the following categories of personal information:</p>
+                                <ul class="mb-15" style="list-style: disc; padding-left: 25px;">
+                                    <li>Identifiers, such as name, postal address, email address, phone number, and IP address.</li>
+                                    <li>Customer records and commercial information, such as billing details and records of
+                                        services purchased.</li>
+                                    <li>Internet or other electronic network activity, such as browser type, device
+                                        information, and website usage.</li>
+                                    <li>Audio, electronic, or visual data, such as security system event data and video
+                                        footage (if applicable to the services you use).</li>
+                                </ul>
+                                <p>We collect this information directly from you, automatically through your use of our
+                                    website and services, and from our service providers. We use it to provide and maintain
+                                    our services, process payments, communicate with you, improve our products, and comply
+                                    with legal obligations. We disclose personal information to service providers
+                                    (such as payment processors and installation partners) for these business purposes.</p>
+
+                                <p class="mt-20"><strong>We do not sell or share your personal information.</strong> We do not
+                                    sell personal information for monetary or other valuable consideration, and we do not
+                                    share it for cross-context behavioral advertising. We do not knowingly sell or share the
+                                    personal information of consumers under 16 years of age.</p>
+
+                                <p class="mt-20"><strong>Your rights.</strong> Subject to certain exceptions, California
+                                    residents have the right to:</p>
+                                <ul class="mb-15" style="list-style: disc; padding-left: 25px;">
+                                    <li><strong>Know/Access:</strong> request the categories and specific pieces of personal
+                                        information we have collected about you, the sources, the purposes, and the
+                                        categories of third parties we disclose it to.</li>
+                                    <li><strong>Delete:</strong> request deletion of the personal information we have
+                                        collected from you.</li>
+                                    <li><strong>Correct:</strong> request correction of inaccurate personal information we
+                                        maintain about you.</li>
+                                    <li><strong>Opt out of sale/sharing:</strong> direct us not to sell or share your
+                                        personal information (we do not do so, as stated above).</li>
+                                    <li><strong>Limit use of sensitive personal information:</strong> where applicable, limit
+                                        our use of sensitive personal information to permitted purposes.</li>
+                                    <li><strong>Non-discrimination:</strong> exercise any of these rights without receiving
+                                        discriminatory treatment, such as different pricing or service quality.</li>
+                                </ul>
+
+                                <p class="mt-20"><strong>How to exercise your rights.</strong> To submit a request, contact us
+                                    by phone at <a href="tel:+18558743165">+1(855) 874-3165</a> or by email at
+                                    <a href="mailto:privacy@yourdomain.com">privacy@yourdomain.com</a>. We will need to
+                                    verify your identity before processing your request, typically by matching the
+                                    information you provide with information we already hold. We will confirm receipt of
+                                    your request within 10 business days and respond within 45 days; if we need more time
+                                    (up to an additional 45 days), we will let you know.</p>
+                                <p>You may also use an authorized agent to submit a request on your behalf. We may require
+                                    written proof of the agent’s authorization and may ask you to verify your identity
+                                    directly with us.</p>
+                                <p class="mt-20"><strong>Data retention.</strong> We retain personal information only as long
+                                    as reasonably necessary for the purposes described in this policy, or as required by law.</p>
+                                {{-- ===== END CCPA SECTION ===== --}}
+
+                                <p class="mt-30"><strong>5. Contact Us</strong></p>
                                 <p>If you have any questions about this Privacy Policy or how we handle your personal
                                     information, please contact us:</p>
                                 <p><strong>Phone:</strong> <a href="tel:+18558743165">+1(855) 874-3165</a></p>
+                                <p><strong>Email:</strong> <a href="mailto:privacy@yourdomain.com">privacy@yourdomain.com</a></p>
                                 <!-- <p><strong>Address:</strong> 21 Glenside Annandale, NJ, 08801</p> -->
                                 <p class="mt-30">By using our services, you consent to the terms of this Privacy Policy.
                                 </p>

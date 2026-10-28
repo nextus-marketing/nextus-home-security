@@ -352,86 +352,18 @@
                             storage is 100% secure.</p>
                     </section>
 
-                    {{-- 4 CCPA --}}
+                    {{-- 4 California --}}
                     <section class="pp-section" id="california">
-                        <h3><span class="pp-num">4</span> California Privacy Rights (CCPA/CPRA)</h3>
-                        <p>If you are a California resident, the California Consumer Privacy Act of 2018, as amended
-                            by the California Privacy Rights Act (together, the “CCPA”), gives you specific rights
-                            regarding your personal information. This section supplements the rest of this Privacy
-                            Policy.</p>
-
-                        <h4>Categories of personal information we collect</h4>
-                        <p>In the past 12 months, we have collected the following categories of personal information:</p>
-                        <ul class="pp-list">
-                            <li>Identifiers, such as name, postal address, email address, phone number, and IP address.</li>
-                            <li>Customer records and commercial information, such as billing details and records of
-                                services purchased.</li>
-                            <li>Internet or other electronic network activity, such as browser type, device
-                                information, and website usage.</li>
-                            <li>Audio, electronic, or visual data, such as security system event data and video
-                                footage (if applicable to the services you use).</li>
-                        </ul>
-                        <p>We collect this information directly from you, automatically through your use of our
-                            website and services, and from our service providers. We use it to provide and maintain
-                            our services, process payments, communicate with you, improve our products, and comply
-                            with legal obligations. We disclose personal information to service providers
-                            (such as payment processors and installation partners) for these business purposes.</p>
-
-                        <div class="pp-callout">
-                            <p><strong>We do not sell or share your personal information.</strong> We do not
-                                sell personal information for monetary or other valuable consideration, and we do not
-                                share it for cross-context behavioral advertising. We do not knowingly sell or share the
-                                personal information of consumers under 16 years of age.</p>
-                        </div>
-
-                        <h4>Your rights</h4>
-                        <p>Subject to certain exceptions, California residents have the right to:</p>
-                        <dl class="pp-rights">
-                            <div class="pp-right">
-                                <dt>Know / Access</dt>
-                                <dd>Request the categories and specific pieces of personal information we have
-                                    collected about you, the sources, the purposes, and the categories of third
-                                    parties we disclose it to.</dd>
-                            </div>
-                            <div class="pp-right">
-                                <dt>Delete</dt>
-                                <dd>Request deletion of the personal information we have collected from you.</dd>
-                            </div>
-                            <div class="pp-right">
-                                <dt>Correct</dt>
-                                <dd>Request correction of inaccurate personal information we maintain about you.</dd>
-                            </div>
-                            <div class="pp-right">
-                                <dt>Opt out of sale/sharing</dt>
-                                <dd>Direct us not to sell or share your personal information (we do not do so, as
-                                    stated above).</dd>
-                            </div>
-                            <div class="pp-right">
-                                <dt>Limit use of sensitive information</dt>
-                                <dd>Where applicable, limit our use of sensitive personal information to permitted
-                                    purposes.</dd>
-                            </div>
-                            <div class="pp-right">
-                                <dt>Non-discrimination</dt>
-                                <dd>Exercise any of these rights without receiving discriminatory treatment, such as
-                                    different pricing or service quality.</dd>
-                            </div>
-                        </dl>
-
-                        <h4>How to exercise your rights</h4>
-                        <p>To submit a request, contact us by phone at
-                            <a href="tel:+18558743165">+1 (855) 874-3165</a>. We will need to
-                            verify your identity before processing your request, typically by matching the
-                            information you provide with information we already hold. We will confirm receipt of
-                            your request within 10 business days and respond within 45 days; if we need more time
-                            (up to an additional 45 days), we will let you know.</p>
-                        <p>You may also use an authorized agent to submit a request on your behalf. We may require
-                            written proof of the agent’s authorization and may ask you to verify your identity
-                            directly with us.</p>
-
-                        <h4>Data retention</h4>
-                        <p>We retain personal information only as long as reasonably necessary for the purposes
-                            described in this policy, or as required by law.</p>
+                        <h3><span class="pp-num">4</span> California Privacy Rights</h3>
+                        <p>If the California Consumer Privacy Act (CCPA), as amended, applies to our business,
+                            California residents may have rights to request access to, correction of, or deletion
+                            of their personal information and to opt out of the sale or sharing of personal
+                            information, subject to applicable exceptions.</p>
+                        <p>To submit a privacy request, email
+                            <a href="mailto:YOUR-EMAIL@YOURDOMAIN.COM?subject=Privacy%20Request">YOUR-EMAIL@YOURDOMAIN.COM</a>
+                            with the subject line “Privacy Request.”</p>
+                        <p>Where legally required, we will honor applicable Global Privacy Control (GPC) signals
+                            and provide additional privacy choices.</p>
                     </section>
 
                     {{-- 5 Contact --}}
